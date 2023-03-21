@@ -13,6 +13,8 @@ regular paragraph.
 
 Dit is een aangepast tekst.
 
+Hier volgt een lijst:
+
 1.  Item1
 2.  Item2
 3.  Item3
