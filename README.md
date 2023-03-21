@@ -15,8 +15,8 @@ Dit is een aangepast tekst.
 
 ### Header 3
 
-> This is a blockquote.
+> Dit is een blockquote.
 > 
-> This is the second paragraph in the blockquote.
+> Dit is het eind van de tweede paragraaf.
 >
-> ## This is an H2 in a blockquote
+> ## Dit is een H2 in een blockquote
