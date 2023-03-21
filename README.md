@@ -24,7 +24,7 @@ Hier volgt een lijst:
 ### Header 3
 
 > Dit is een aangepaste blockquote.
->  Dit is een nog aangepaste blockquote.
+> Dit is een nog aangepaste blockquote.
 > 
 > Dit is het eind van de tweede paragraaf.
 >
