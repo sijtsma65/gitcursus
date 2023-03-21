@@ -19,6 +19,8 @@ Hier volgt een lijst:
 2.  Item2
 3.  Item3
 
+-----------------------------------------
+
 ### Header 3
 
 > Dit is een blockquote.
