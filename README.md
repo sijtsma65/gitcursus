@@ -1,4 +1,4 @@
-# gitcursus
+# Dit is code met betrekking tot de gitcursus
 # Code van John Gruber
 
 A First Level Header
