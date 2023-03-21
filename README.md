@@ -13,6 +13,10 @@ regular paragraph.
 
 Dit is een aangepast tekst.
 
+1.  Item1
+2.  Item2
+3.  Item3
+
 ### Header 3
 
 > Dit is een blockquote.
